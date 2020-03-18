@@ -1,6 +1,6 @@
 ## Implementation ERIC API
 
-Endpoint API **` https://api.ies.ed.gov/eric/` ** Method **`GET`**
+Endpoint API `https://api.ies.ed.gov/eric/` Method `GET`
 
 The search endpoint supports the following named URL parameters:
 
