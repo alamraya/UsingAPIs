@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <title>Publons API</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-info">
+        <div class="container">
+            <a class="navbar-brand" href="#">Publons API</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link active" href="#">Search Researcher</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <br>
+        <div class="row d-flex justify-content-center mt-3"><img src="img/publons.png" alt="Publons" height="80">
+        </div>
+        <div class="row mt-3 justify-content-center">
+            <div class="col-md-8">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Enter researcher id..."
+                        aria-label="Recipient's username" aria-describedby="button-addon2" id="search-input">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="button" id="search-button">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h6 class="text-center mb-3" id="menampilkan">
+
+        </h6>
+
+        <hr>
+
+        <div class="row" id="publication-list">
+
+        </div>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js">
+    </script>
+    <script src="js/bootstrap.min.js">
+    </script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
