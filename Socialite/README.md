@@ -1,8 +1,7 @@
 <h1>WEB SERVICE - Learn API <h1><br>
 
-##Deskripsi
-
-Aplikasi ini merupakan aplikasi implementasi <b>handle login with social media</b> yang dibangun dengan menggunakan framework Laravel 5.8
+##Description
+- Aplikasi ini merupakan aplikasi implementasi <b>handle login with social media</b> yang dibangun dengan menggunakan framework Laravel 5.8
 
 Pastikan lakukan perintah berikut di terminal:
 ```console
