@@ -8,7 +8,7 @@ The search endpoint supports the following named URL parameters:
 
 `format` - response can be provided in xml, json, or csv. Default is xml.
 
-`start `- starting record to support pagination
+`start`- starting record to support pagination
 
 `rows` - number of records to return. Default is 20 and max is 200.
 
@@ -22,5 +22,14 @@ ERIC SEARCH merupakan sebuah aplikasi pencarian jurnal yang memanfaatkan ERIC AP
 ![](http://cdn.webapps.my.id/images/ss1.png)
 
 
+------------
 
+### Anggota Kelompok
 
+```
+    Aji Mats Mail (177006017)
+    Fuji Nugraha (177006052)
+    Faisal Alisfahani (177006047)
+    Nisa Nur Afifah (177006037)
+    Rifki Mubarok (177006078)
+```
