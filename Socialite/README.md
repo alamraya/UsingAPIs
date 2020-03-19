@@ -1,11 +1,21 @@
 <h1>WEB SERVICE - Learn API <h1><br>
 
-##Description
-- Aplikasi ini merupakan aplikasi implementasi <b>handle login with social media</b> yang dibangun dengan menggunakan framework Laravel 5.8
+## Deskripsi
+*plikasi ini merupakan aplikasi implementasi <b>handle login with social media</b> yang dibangun dengan menggunakan framework Laravel 5.8*)   
+
+## Petunjuk penggunaan:
 
 Pastikan lakukan perintah berikut di terminal:
 ```console
 composer update
+```
+Buat database dengan nama sesuai nama database yang ada di .env
+jalankan:
+```console
+php artisan migrate
+```
+```console
+php artisan serve
 ```
 
 <p align="center"><img src="Dokumentasi/register.png" width="400"></p>
