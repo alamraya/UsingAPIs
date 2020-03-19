@@ -22,6 +22,12 @@ Buka di browser
 <p align="center"><img src="Dokumentasi/login.png" width="400"></p>
 <p align="center"><img src="Dokumentasi/home_google.png" width="400"></p>
 
+NB:
+Update Client ID & Client Secret di file .env, jika login with social media tidak bisa dijalankan.
+https://developers.google.com/identity/sign-in/web/sign-in <br>
+https://developers.facebook.com/apps/ <br>
+https://github.com/settings/developers <br>
+
 
 ## Contributors
 - [Dewi Wulan Sari](https://github.com/dewiwss) -- 177006021
